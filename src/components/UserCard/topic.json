@@ -1,0 +1,20 @@
+{
+    "items" : [
+    {"name": "Alice",
+     "age": 25, 
+     "email": "alice@example.com",
+     "img": "https://cdn-icons-png.flaticon.com/512/13077/13077484.png"
+    },
+    {"name": "Bob",
+     "age": 30, 
+     "email": "bob@example.com",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyWHmIfsgQwwduK2MX1Bby-bBb9Tj1r-woWAS5kr0DxLXvV63QNKt_n03follHS4WPVs&usqp=CAU"
+    },
+    {"name": "Charlie",
+     "age": 28,
+    "email": "charlie@example.com",
+    "img": "https://cdn-icons-png.flaticon.com/256/13078/13078067.png"
+    }
+  ]
+    }
+  

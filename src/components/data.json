@@ -1,0 +1,55 @@
+
+{ "services":{
+    "text": "Features",
+    "title": "Our Awesome Services"
+},
+    "items":[
+{
+    "img": "../../../images/Food 2.png",
+    "title": "Quality Food",
+    "discription": "Keep healthy food readily available. When you get hungry, you’re more likely to eat the first thing you see."
+},
+{
+    "img": "../../../images/Food 3.png",
+    "title": "Super Taste",
+    "discription":"Delicious flavors that satisfy your taste buds. Experience food like never before."
+},
+{
+    "img": "../../../images/Food 11.png",
+    "title": "Fast Delivery",
+    "discription": "Quick and reliable food delivery service to ensure freshness and convenience."
+}
+],
+"banner":{
+   "title":"The food palace is a neighborhood restaurant serving seasonal global cuisine.",
+   "btn":"Explore Food Menu"
+},
+"about":{
+    "title":"Quality Food",
+    "text":"ffjirkiofk",
+    "discription":"Keep healthy food readily available. When you get hungry, you’re more likely to eat the first thing you see.",
+    "btn":"Explore Food Menu"
+},
+    "features": [
+    {
+      "img": "../images/Food 2.png"
+    },
+    {
+      "img": "../images/Food 11.png"
+    },
+    {
+      "img": "../images/Food 11.png"
+    }
+  ],
+  "popular":{
+    "text":"Recipes",
+    "title":"Most Popular Items"
+},
+  "take":{
+    "text":"Take away",
+    "title":"Simple Way To Order Your Food",
+    "discription":"Keep healthy food readily available. When you get hungry, you’re more likely to eat the first thing you see."
+    
+  }
+}
+

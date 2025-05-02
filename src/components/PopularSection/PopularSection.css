@@ -1,0 +1,51 @@
+.popular-items {
+    padding: 50px 0;
+    background: linear-gradient(to bottom, #fffaf2, #fef6e9);
+  }
+  .section-title {
+    color: #ff9a00;
+    text-align: center;
+  }
+  .main-title {
+    font-size: 28px;
+    color: #333;
+    text-align: center;
+  }
+  .items-grid {
+    display: flex;
+    margin-top: 30px;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .item {
+    background: white;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    width: 25%;
+  }
+  
+  .item img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .item h4 {
+    font-size: 18px;
+  }
+  .more-recipes {
+    display: block;
+    margin: 30px auto 0;
+    background: #ff9a00;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .more-recipes:hover {
+    background: #ff6600;
+  }

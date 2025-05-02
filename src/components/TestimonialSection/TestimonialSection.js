@@ -1,0 +1,84 @@
+import React from "react";
+import Image from "../../images/Image.png";
+
+const TestimonialSection = () => {
+
+    return (
+        <section class="testimonial">
+      <div class="testimonial-content">
+        <h3 class="highlight">Testimonial</h3>
+        <h2>That's what our Client Says</h2>
+        <p>
+          <em
+            >“Food palace is an awesome place. Food is everything we are. It’s
+            an extension of nationalist feeling, ethnic feeling, your personal
+            history, your province”</em>
+          
+        </p>
+        <div class="end-block">
+          <div class="title-block">
+            <p class="client-name">Jessica Parker</p>
+            <p class="client-role">Product Designer @ Kitty</p>
+          </div>
+          <div class="arrow-block">
+            <svg
+              width="52"
+              height="52"
+              viewBox="0 0 52 52"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g filter="url(#filter0_d_401_88)">
+                <path
+                  d="M32.1042 7.4541L30.7144 8.84391L36.6107 14.7403H10.9827V16.7059H36.6105L30.7144 22.602L32.1042 23.9918L40.3732 15.723L32.1042 7.4541Z"
+                  fill="#FF9401"
+                />
+              </g>
+              <defs>
+                <filter
+                  id="filter0_d_401_88"
+                  x="0"
+                  y="0"
+                  width="51.4482"
+                  height="51.4482"
+                  filterUnits="userSpaceOnUse"
+                  color-interpolation-filters="sRGB"
+                >
+                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feColorMatrix
+                    in="SourceAlpha"
+                    type="matrix"
+                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                    result="hardAlpha"
+                  />
+                  <feOffset dy="10" />
+                  <feGaussianBlur stdDeviation="5" />
+                  <feColorMatrix
+                    type="matrix"
+                    values="0 0 0 0 1 0 0 0 0 0.580392 0 0 0 0 0.00392157 0 0 0 0.25 0"
+                  />
+                  <feBlend
+                    mode="normal"
+                    in2="BackgroundImageFix"
+                    result="effect1_dropShadow_401_88"
+                  />
+                  <feBlend
+                    mode="normal"
+                    in="SourceGraphic"
+                    in2="effect1_dropShadow_401_88"
+                    result="shape"
+                  />
+                </filter>
+              </defs>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="testimonial-image">
+        <img src={Image} alt="Testimonial Food" />
+      </div>
+    </section>
+       );
+    };
+
+    export default TestimonialSection;

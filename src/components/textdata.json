@@ -1,0 +1,34 @@
+{
+    "items":[
+{
+    "title": "Quality Food",
+    "city": "Almaty",
+    "price": 30000
+},
+{
+    "title": "Super Taste",
+    "city":"Almaty",
+   "price": "not specified"
+},
+{
+    "title": "Fast Delivery",
+    "city":"Almaty",
+    "price": "not specified"
+},
+{
+    "title": "Quality Food",
+    "city":"Astana",
+    "price": "not specified"
+},
+{
+    "title": "Super Taste",
+    "city": "Astana",
+    "price":"not specified"
+},
+{
+    "title": "Fast Delivery",
+    "city":"Almaty",
+    "price":"not specified"
+}
+]
+}

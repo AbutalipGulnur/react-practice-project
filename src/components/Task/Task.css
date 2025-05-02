@@ -1,0 +1,9 @@
+.card {
+     background-color: unset;
+     padding: 10px 10px 10px 10px;
+}
+.notification-card{
+    padding: 15px 15px 15px 15px;
+    border-radius: 25px;
+    text-align: center;
+}

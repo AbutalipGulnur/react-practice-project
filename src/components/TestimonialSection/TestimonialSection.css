@@ -1,0 +1,40 @@
+.testimonial {
+    display: flex;
+    align-items: center;
+    /* padding: 50px; */
+    gap: 70px;
+    justify-content: center;
+  }
+  .testimonial h2 {
+    font-size: 2rem;
+  }
+  .testimonial p {
+    font-style: italic;
+    color: #555;
+  }
+  .client-name {
+    font-weight: bold;
+    color: #333;
+  }
+  .client-role {
+    color: gray;
+    font-size: 0.9rem;
+  }
+  .testimonial-image img {
+    width: 460px;
+    max-width: 100%;
+  }
+  .testimonial-content {
+    text-align: initial;
+    width: 357px;
+    max-width: 50%;
+    /* margin-left: 80px; */
+  }
+  .testimonial-image {
+    position: relative;
+  }
+  .end-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

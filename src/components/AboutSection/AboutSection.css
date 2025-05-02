@@ -1,0 +1,33 @@
+.food-content {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+  }
+  
+  .text-content {
+    text-align: initial;
+    width: 426px;
+    max-width: 100%;
+  }
+  .about {
+    color: orange;
+    font-size: 20px;
+  }
+  .explore-btn {
+    background-color: #ff8c00;
+    color: #fff;
+    border: none;
+    padding: 15px 35px;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  .image-container img {
+    width: 480px;
+    max-width: 100%;
+  }
+  .food-section {
+    background: linear-gradient(to right, #f8dcbb5b, #fffaec7a);
+  }
+  

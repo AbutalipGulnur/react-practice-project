@@ -1,0 +1,94 @@
+{
+    "items":[
+{
+    "id": 1,
+    "name": "Асел",
+    "position": "Frontend-разработчик",
+   " age": 25,
+   " email": "asel@company.kz",
+    "city": "Алматы",
+    "photo": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+   " id": 2,
+   " name": "Данияр",
+   " position": "UX/UI дизайнер",
+   " age": 30,
+    "email": "daniyar@company.kz",
+   " city": "Астана",
+   " photo": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+   " id": 3,
+   " name": "Мадина",
+    "position": "Проект-менеджер",
+   " age": 27,
+    "email": "madina@company.kz",
+   " city": "Шымкент",
+    "photo": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+   " id": 4,
+   " name": "Руслан",
+   " position": "Backend-разработчик",
+   " age": 32,
+   " email": "ruslan@company.kz",
+    "city": "Караганда",
+   " photo": "https://randomuser.me/api/portraits/men/77.jpg"
+  },
+  {
+    "id": 5,
+   " name": "Айгерим",
+   " position": "HR-менеджер",
+    "age": 29,
+   " email": "aigerim@company.kz",
+   " city": "Тараз",
+  "  photo": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+   " id": 6,
+   " name": "Нурлан",
+    "position": "QA-инженер",
+    "age": 28,
+   " email": "nurlan@company.kz",
+   " city": "Усть-Каменогорск",
+    "photo": "https://randomuser.me/api/portraits/men/35.jpg"
+  },
+  {
+   " id": 7,
+   " name": "Жанна",
+   " position": "Бизнес-аналитик",
+   " age": 31,
+   " email": "zhanna@company.kz",
+   " city": "Павлодар",
+   " photo": "https://randomuser.me/api/portraits/women/81.jpg"
+  },
+  {
+   " id": 8,
+    "name": "Максим",
+   " position": "DevOps-инженер",
+   " age": 34,
+   " email": "maxim@company.kz",
+   " city": "Актобе",
+    "photo": "https://randomuser.me/api/portraits/men/88.jpg"
+  },
+  {
+   " id": 9,
+   " name": "Салтанат",
+   " position": "Копирайтер",
+   " age": 26,
+   " email": "saltanat@company.kz",
+    "city": "Костанай",
+   " photo": "https://randomuser.me/api/portraits/women/23.jpg"
+  },
+  {
+   " id": 10,
+   " name": "Арман",
+   " position": "Fullstack-разработчик",
+   "age": 33,
+    "email": "arman@company.kz",
+   " city": "Семей",
+    "photo": "https://randomuser.me/api/portraits/men/91.jpg"
+  }
+]
+}
